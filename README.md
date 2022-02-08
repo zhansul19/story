@@ -1,2 +1,2 @@
 # story
-Create Your Own Story
+Create Your Own Story based on JSON files 
